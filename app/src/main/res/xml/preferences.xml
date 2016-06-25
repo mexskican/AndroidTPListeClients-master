@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <PreferenceCategory android:title="@string/categorie_parametres" >
+        <ListPreference android:key="list_order_pref"
+            android:summary="Ordre d'affichage du nom et prénom dans la liste"
+            android:title="Affichage du nom et prénom"
+            android:entries="@array/list_order_choice"
+            android:entryValues="@array/list_order_values"/>
+
+    </PreferenceCategory>
+</PreferenceScreen>

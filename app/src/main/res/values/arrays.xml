@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="niveau">
+        <item>Debutant</item>
+        <item>Moyen</item>
+        <item>Expert</item>
+    </string-array>
+
+
+    <string-array name="list_order_choice">
+        <item>Nom - Prénom</item>
+        <item>Prénom - Nom</item>
+    </string-array>
+
+    <string-array name="list_order_values">
+        <item>LASTAME_FIRSTNAME</item>
+        <item>FIRSTNAME_LASTNAME</item>
+    </string-array>
+</resources>
